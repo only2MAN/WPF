@@ -1,0 +1,38 @@
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.g.resources
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\ButtonStyle.baml
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Slaids2.g.cs
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Slaids2.baml
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\App.baml
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Slaids1.g.cs
+C:\Users\1\Desktop\Колледж\Инструментарные разработки ПО\Task2\Task2\obj\Debug\Slaids1.baml
+F:\Загрузки\Task2\Task2\Task2\bin\Debug\Task2.exe.config
+F:\Загрузки\Task2\Task2\Task2\bin\Debug\Task2.exe
+F:\Загрузки\Task2\Task2\Task2\bin\Debug\Task2.pdb
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\ButtonStyle.baml
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Slaids1.g.cs
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Slaids2.g.cs
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\App.g.cs
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\App.baml
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Slaids1.baml
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Slaids2.baml
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.g.resources
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.exe
+F:\Загрузки\Task2\Task2\Task2\obj\Debug\Task2.pdb
